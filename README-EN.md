@@ -1,19 +1,16 @@
-# windows-activation
-Activation of Windows 10 using cmd within 30 seconds.
-
-
 ## Windows 10 Activation
+Activation of Windows 10 within 30 seconds.
 **using CMD (command prompt)**
 > **Note:** Remember  **connect** to the **Internet**
 
 
-### Step 1:
+## Step 1:
 
 Click on the start button, search for `CMD` then Open Command Prompt "CMD" as administrator.
 
 ![1](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win1.png)
 
-#### The following is the list of Windows 10 Volume **license keys**
+### The following is the list of Windows 10 Volume **license keys**
 
 >  * **Home:** `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99`
 
@@ -37,7 +34,7 @@ Click on the start button, search for `CMD` then Open Command Prompt "CMD" as ad
 
 
 -------------
-### Step 2:
+## Step 2:
 **Install KMS client key**
 **Type this command:**
 `slmgr /ipk yourlicensekey`
@@ -47,36 +44,36 @@ Click on the start button, search for `CMD` then Open Command Prompt "CMD" as ad
 ![3](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win3.png)
 
 _______
-### Step 3:
+## Step 3:
 **Set KMS machine address**
 Use the command: `slmgr /skms kms8.msguides.com` to connect to my KMS server.
 
 ![4](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win4.png)
-
 ![5](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win5.png)
 
 ------
-### Step 4:
+## Step 4:
 **Activate your Windows** 
   
 The last step is to activate your Windows using the command `slmgr /ato`
 
 ![6](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win6.png)
-
 ![7](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win7.png)
 
-#### And Now check the activation status again
+### And Now check the activation status again
 
 ![7](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win8.png) 
 
-#### Windows 10 is activated successfully.
+### Windows 10 is activated successfully.
 
 You can **use** the same method to **activate Windows 11**, with **its specific** license code that can be easily found on the internet. The above license codes are **only for** Windows 10, but **the process is similar.**
-Be curious. 🤍🪐
+
+
+**Be curious. 🤍🪐**
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_)  
-[![Twitter Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/NiREvil_)  
+[![Twitter Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/F_NiREvil)  
 
 
 
