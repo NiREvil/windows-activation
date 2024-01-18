@@ -86,6 +86,7 @@ The last step is to activate your Windows using the command `slmgr /ato`
 
 ### Windows 10 is activated successfully.
 
+--------
 > ### A few points:
 > > You can **use** the same method to **activate Windows 11**, with **its specific** license code that can be easily found on the internet.
 > > >  The above license codes are **only for** Windows 10, but **the process is similar.**
