@@ -3,6 +3,7 @@ Activation of Windows 10 within 30 seconds.
 **using CMD (command prompt)**
 > **Note:** Remember  **connect** to the **Internet**
 
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) توضیحات فارسی**](README-FA.md)
 
 ## Step 1:
 
