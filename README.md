@@ -7,7 +7,7 @@ Activation of Windows 10 within 30 seconds.
 
 ## Step 1:
 
-Click on the start button, search for `CMD` then Open Command Prompt "CMD" as administrator.
+Click on the start button, search for `CMD` then Open Command Prompt `CMD` as administrator.
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win1.png" width="480px">
