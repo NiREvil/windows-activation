@@ -9,7 +9,9 @@ Activation of Windows 10 within 30 seconds.
 
 Click on the start button, search for `CMD` then Open Command Prompt "CMD" as administrator.
 
-![1](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win1.png)
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win1.png" width="480px">
+</p>
 
 ### The following is the list of Windows 10 Volume **license keys**
 
@@ -41,16 +43,26 @@ Click on the start button, search for `CMD` then Open Command Prompt "CMD" as ad
 `slmgr /ipk yourlicensekey`
 >  **Note:** replace your license key according to **your windows edition** license key given above.
 
-![2](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win2.png)
-![3](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win3.png)
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win2.png" width="480px">
+</p>
+
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win3.png" width="340px">
+</p>
 
 _______
 ## Step 3:
 **Set KMS machine address**
 Use the command: `slmgr /skms kms8.msguides.com` to connect to my KMS server.
 
-![4](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win4.png)
-![5](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win5.png)
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win4.png" width="480px">
+</p>
+
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win5.png" width="340px">
+</p>
 
 ------
 ## Step 4:
@@ -58,16 +70,27 @@ Use the command: `slmgr /skms kms8.msguides.com` to connect to my KMS server.
   
 The last step is to activate your Windows using the command `slmgr /ato`
 
-![6](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win6.png)
-![7](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win7.png)
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win6.png" width="480px">
+</p>
+
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win7.png" width="240px">
+</p>
 
 ### And Now check the activation status again
 
-![7](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/pics/win8.png) 
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win8.png" width="480px">
+</p>
 
 ### Windows 10 is activated successfully.
 
-You can **use** the same method to **activate Windows 11**, with **its specific** license code that can be easily found on the internet. The above license codes are **only for** Windows 10, but **the process is similar.**
+> ### A few points:
+> > You can **use** the same method to **activate Windows 11**, with **its specific** license code that can be easily found on the internet.
+> > >  The above license codes are **only for** Windows 10, but **the process is similar.**
+
+
 
 
 **Be curious. 🤍🪐**
