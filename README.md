@@ -7,6 +7,7 @@ Activation of Windows 10 within 30 seconds.
 
 ## Step 1:
 **Click on the start button,**
+
 and search for `CMD` then Open Command Prompt `CMD` as administrator.
 
 <p align="center">
@@ -72,7 +73,7 @@ NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 > **Enterprise N:**
 ```
-> DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ```
 
 
@@ -81,7 +82,7 @@ NPPR9-FWDCX-D2C8J-H872K-2YT43
 ## Step 2:
 **Install KMS client key**
 
-Type this command:
+Use this command:
 
     slmgr /ipk yourlicensekey
 
@@ -96,7 +97,7 @@ Type this command:
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win3.png" width="340px">
 </p>
 
-_______
+
 ## Step 3:
 **Set KMS machine address**
 
@@ -130,15 +131,17 @@ The last step is to activate your Windows using the command:
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win7.png" width="240px">
 </p>
 
-### And Now check the activation status again
+------
+**And Now check the activation status again**
 
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win8.png" width="480px">
 </p>
 
-
-### Windows 10 is activated successfully.
+----
+**Congratulations 🎉**
+**your Windows is activated successfully.**
 
 --------
 > ### A few points:
