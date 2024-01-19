@@ -6,41 +6,86 @@ Activation of Windows 10 within 30 seconds.
 > **Note:** Remember  **connect** to the **Internet**
 
 ## Step 1:
-
-Click on the start button, search for `CMD` then Open Command Prompt `CMD` as administrator.
+**Click on the start button,**
+and search for `CMD` then Open Command Prompt `CMD` as administrator.
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win1.png" width="480px">
 </p>
 
-### The following is the list of Windows 10 Volume **license keys**
+### The following is the list of Windows 10 **license keys**
 
->  * **Home:** `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99`
 
->  * **Home N:** `3KHY7-WNT83-DGQKR-F7HPR-844BM`
+>  **Home:**
+```
+TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+```
 
-> * **Home Single Language:** `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH`
 
-> * **Home Country Specific:** `PVMJN-6DFY6–9CCP6–7BKTT-D3WVR`
+> **Home N:**
+```
+3KHY7-WNT83-DGQKR-F7HPR-844BM
+```
 
-> * **Professional:** `W269N-WFGWX-YVC9B-4J6C9-T83GX`
 
-> * **Professional N:** `MH37W-N47XK-V7XM9-C7227-GCQG9`
+> **Home Single Language:**
+```
+7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+```
 
-> * **Education:** `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2`
 
-> * **Education N:** `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ`
+> **Home Country Specific:**
+```
+PVMJN-6DFY6–9CCP6–7BKTT-D3WVR
+```
 
-> * **Enterprise:** `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 
-> * **Enterprise N:** `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4`
+> **Professional:**
+```
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+```
+
+
+> **Professional N:**
+```
+MH37W-N47XK-V7XM9-C7227-GCQG9
+```
+
+
+> **Education:**
+```
+NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+```
+
+
+> **Education N:**
+```
+2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+```
+
+
+> **Enterprise:**
+```
+NPPR9-FWDCX-D2C8J-H872K-2YT43
+```
+
+
+> **Enterprise N:**
+```
+> DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+```
+
 
 
 -------------
 ## Step 2:
 **Install KMS client key**
-**Type this command:**
-`slmgr /ipk yourlicensekey`
+
+Type this command:
+
+    slmgr /ipk yourlicensekey
+
+    
 >  **Note:** replace your license key according to **your windows edition** license key given above.
 
 <p align="center">
@@ -54,7 +99,12 @@ Click on the start button, search for `CMD` then Open Command Prompt `CMD` as ad
 _______
 ## Step 3:
 **Set KMS machine address**
-Use the command: `slmgr /skms kms8.msguides.com` to connect to my KMS server.
+
+Use the command:
+```
+slmgr /skms kms8.msguides.com
+```
+to connect to my KMS server.
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win4.png" width="480px">
@@ -68,7 +118,9 @@ Use the command: `slmgr /skms kms8.msguides.com` to connect to my KMS server.
 ## Step 4:
 **Activate your Windows** 
   
-The last step is to activate your Windows using the command `slmgr /ato`
+The last step is to activate your Windows using the command:
+
+    slmgr /ato
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win6.png" width="480px">
@@ -80,9 +132,11 @@ The last step is to activate your Windows using the command `slmgr /ato`
 
 ### And Now check the activation status again
 
+
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win8.png" width="480px">
 </p>
+
 
 ### Windows 10 is activated successfully.
 
@@ -94,7 +148,7 @@ The last step is to activate your Windows using the command `slmgr /ato`
 
 
 
-**Be curious. 🤍🪐**
+**Be curious 🤍🪐**
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiREvil_)  
