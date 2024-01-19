@@ -6,9 +6,9 @@ Activation of Windows 10 within 30 seconds.
 > **Note:** Remember  **connect** to the **Internet**
 
 ## Step 1:
-**Click on the start button,**
+**First, click on the search box,**
+Or the start button on the taskbar, then type CMD and after seeing the command prompt, run it as an **administrator.**
 
-and search for `CMD` then Open Command Prompt `CMD` as administrator.
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win1.png" width="480px">
@@ -17,7 +17,7 @@ and search for `CMD` then Open Command Prompt `CMD` as administrator.
 ### The following is the list of Windows 10 **license keys**
 
 
->  **Home:**
+> **Home:**
 ```
 TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 ```
@@ -78,7 +78,7 @@ DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 
 
 
--------------
+-----
 ## Step 2:
 **Install KMS client key**
 
@@ -87,7 +87,12 @@ Use this command:
     slmgr /ipk yourlicensekey
 
     
->  **Note:** replace your license key according to **your windows edition** license key given above.
+>  **Note:** Please select one of the **license keys** from the above list that **matches your version of Windows** and replace it with the phrase `yourlicencekey` in the command.
+
+> > To view version of your Windows, **right click** on the start button and select the **system** option. Your Windows version can be seen in the second section under **Edition.**
+> > > You can also follow these steps by **copy pasting** them. **Right-click** in the **command line** and select paste to do the replacement.
+
+
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win2.png" width="480px">
