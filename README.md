@@ -4,6 +4,8 @@
 Activation of Windows 10 within 30 seconds.
 **using CMD (command prompt)**
 > **Note:** Remember  **connect** to the **Internet**
+> > Connecting to a VPN is not necessary.
+
 
 ## Step 1:
 **First, click on the search box,**
