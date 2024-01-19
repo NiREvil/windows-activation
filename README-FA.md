@@ -1,44 +1,85 @@
 # فعال‌سازی ویندوز 10
-فعال‌سازی ویندوز 10 در عرض 30 ثانیه.
-**با استفاده از CMD (خط فرمان)**
-> **توجه:** قبل از شروع کار **اتصال به اینترنت** سیستم بررسی شود.
-> > اتصال vpn نیاز نیست.
+**فعال‌سازی ویندوز 10 در عرض 30 ثانیه.**
+با استفاده از CMD (خط فرمان)
+> **نکته:** قبل از شروع کار **اتصال اینترنت** سیستم بررسی شود.
+> > اتصال vpn **نیاز نیست.**
 
 ## قدم اول:
-
-در ابتدا روی کادر جستجو یا دکمه استارت در کادر تسکبار کلیک کنید و سپس `CMD` را تایپ کنید و بعد از مشاهده command prompt یا همان خط فرمان؛ آن را با حالت مدیر (administrator) اجرا کنید.
+**در ابتدا روی کادر جستجو یا دکمه استارت در کادر تسکبار کلیک کنید** و سپس `CMD` را تایپ کنید و بعد از مشاهده command prompt یا همان خط فرمان؛ آن را با حالت مدیر (administrator) اجرا کنید.
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win1.png" width="480px">
 </p>
 
-### لیست زیر شامل کلیدهای لایسنس ویندوز 10 نسخه های مختلف می‌باشد:
+## لیست زیر شامل کلیدهای لایسنس ویندوز 10 نسخه های مختلف می‌باشد:
 
-> **Home:** `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99`
 
-> **Home N:** `3KHY7-WNT83-DGQKR-F7HPR-844BM`
+> **Home:**
+```
+TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+```
 
-> **Home Single Language:** `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH`
 
-> **Home Country Specific:** `PVMJN-6DFY6–9CCP6–7BKTT-D3WVR`
+> **Home N:**
+```
+3KHY7-WNT83-DGQKR-F7HPR-844BM
+```
 
-> **Professional:** `W269N-WFGWX-YVC9B-4J6C9-T83GX`
 
-> **Professional N:** `MH37W-N47XK-V7XM9-C7227-GCQG9`
+> **Home Single Language:**
+```
+7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+```
 
-> **Education:** `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2`
 
-> **Education N:** `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ`
+> **Home Country Specific:**
+```
+PVMJN-6DFY6–9CCP6–7BKTT-D3WVR
+```
 
-> **Enterprise:** `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 
-> **Enterprise N:** `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4`
+> **Professional:**
+```
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+```
 
--------------
+
+> **Professional N:**
+```
+MH37W-N47XK-V7XM9-C7227-GCQG9
+```
+
+
+> **Education:**
+```
+NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+```
+
+
+> **Education N:**
+```
+2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+```
+
+
+> **Enterprise:**
+```
+NPPR9-FWDCX-D2C8J-H872K-2YT43
+```
+
+
+> **Enterprise N:**
+```
+DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+```
+
+
 ## قدم دوم:
 **نصب کلید لایسنس**
-**دستور زیر را تایپ کرده و سپس با فشردن کلید اینتر آن را اجرا کنید:
-`slmgr /ipk yourlicensekey`
+دستور زیر را تایپ کرده و سپس با فشردن کلید اینتر آن را اجرا کنید:
+```
+slmgr /ipk yourlicensekey
+```
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win2.png" width="480px">
@@ -49,14 +90,18 @@
 </p>
 
 
->  **نکته:** لطفا یکی از کلیدهای لایسنس لیست بالا را متناسب با نسخه ویندوز خود انتخاب کرده و آن را جایگذین عبارت your licence key در دستور بالا بکنید.
+>  **نکته:** لطفا یکی از کلیدهای لایسنس لیست بالا را متناسب با نسخه ویندوز خود انتخاب کرده و آن را به جای عبارت your licence key در دستور بالا جاگذاری کنید.
 > > برای مشاهده نسخه ویندوز خود روی دکمه start راست کلیک کرده و گزینه system را انتخاب کنید، نسخه ویندوز شما در بخش دوم مقابل Edition قابل مشاهده است.
-> > > همچنین میتوانید از عمل کپی و جایگذاری این مراحل را انجام دهید، در خط فرمان کلیک راست عمل paste یا همان جایگذاری را انجام می‌دهد.
+> > > همچنین میتوانید از عمل کپی و پست این مراحل را طی کنید، در خط فرمان کلیک راست عمل paste یا همان جاگذاری را انجام می‌دهد.
 
-_______
+
 ## قدم سوم:
 **تنظیم آدرس دستگاه KMS**
-برای اتصال به سرور KMS دستور `slmgr /skms kms8.msguides.com` را اجرا کنید.
+برای اتصال به سرور KMS دستور
+```
+slmgr /skms kms8.msguides.com
+```
+ را اجرا کنید.
 
 <p align="center">
   <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win4.png" width="480px">
